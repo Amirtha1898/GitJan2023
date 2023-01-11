@@ -1,6 +1,10 @@
 package org.xyz;
 
 public class Sample {
+	
+	private void b() {
+		System.out.println("Bala method");
+	}
 
 	public static void main(String[] args) {
 
