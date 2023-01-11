@@ -1,6 +1,10 @@
 package org.xyz;
 
 public class Sample {
+	
+	private void dha() {
+		System.out.println("Dhamo method");
+	}
 
 	public static void main(String[] args) {
 
