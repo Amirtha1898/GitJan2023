@@ -1,9 +1,13 @@
 package org.xyz;
 
 public class Sample {
-	
+
 	private void dha() {
 		System.out.println("Dhamo method");
+	}
+
+	private void b() {
+		System.out.println("Bala method");
 	}
 
 	public static void main(String[] args) {
